@@ -125,4 +125,4 @@ A cleanup should be made in code and doc. However, gulp-rev tests have been upda
 
 ## License
 
-[MIT](LICENSE)
+[MIT](license)
