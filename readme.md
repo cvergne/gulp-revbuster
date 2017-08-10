@@ -1,6 +1,6 @@
 # gulp-revbuster [![Build Status](https://travis-ci.org/cvergne/gulp-revbuster.svg?branch=master)](https://travis-ci.org/cvergne/gulp-revbuster) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
-This package is a fork of the really good [gulp-rev](https://github.com/sindresorhus/gulp-rev/) package, but processing manifest file more like [gulp-buster](https://github.com/UltCombo/gulp-buster) but handling merging of existing manifest file.
+This package is a fork of the really good [gulp-rev](https://github.com/sindresorhus/gulp-rev/) package, but processing manifest file more like [gulp-buster](https://github.com/UltCombo/gulp-buster) with the handling merging of existing manifest file.
 
 ---
 
