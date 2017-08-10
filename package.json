@@ -36,7 +36,6 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.0",
-    "modify-filename": "^1.1.0",
     "rev-hash": "^2.0.0",
     "rev-path": "^1.0.0",
     "sort-keys": "^2.0.0",
